@@ -6,4 +6,4 @@ A portal for university students where they can submit the details of previous i
 <img src='' height='450'>
 
 #### User Profile :
-<img src='' height='425'>
+<img src='Internship_Portal-student_home.png' height='425'>
